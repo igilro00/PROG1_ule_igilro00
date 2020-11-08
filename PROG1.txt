@@ -1,0 +1,12 @@
+1.Articulo0-https://dle.rae.es/art?culo?m=form
+2.Base-https://dle.rae.es/base?m=form
+3.Cauce-https://dle.rae.es/cauce?m=form
+4.Diagrama-https://dle.rae.es/diagrama?m=form
+5.Electronica-https://dle.rea.es/electronica?m=form
+6.Foco-https://dle.rae.es/foco?m=form
+7.Garaje-https://dle.rae.es/garaje?m=form
+8.Hiena-https://dle.rae.es/hiena?m=form 
+9.Isla-https://dle.rae.es/isla?m=form
+10.Jirafa-https://dle.rae.es/jirafa?m=form
+
+
